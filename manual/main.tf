@@ -16,4 +16,10 @@ locals {
     }
   ]
 
+  stages = [
+    "dev",
+    "uat",
+    "prod"
+  ]
+
 }
