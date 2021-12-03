@@ -6,4 +6,6 @@ locals {
       staged = "az-tf-staged"
     }
   }
+
+  subscription_id = "<insert_subscription_id_here>"
 }
