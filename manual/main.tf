@@ -7,5 +7,5 @@ locals {
     }
   }
 
-  subscription_id = "<insert_subscription_id_here>"
+  subscription_id = "d984fd7f-5ebd-4b07-896f-ee6c0ed6c886"
 }
