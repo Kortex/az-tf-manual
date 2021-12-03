@@ -16,10 +16,10 @@ locals {
     }
   ]
 
-  stages = [
+  stages = toset([
     "dev",
     "uat",
     "prod"
-  ]
+  ])
 
 }
